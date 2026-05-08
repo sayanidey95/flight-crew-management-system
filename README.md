@@ -1,2 +1,2 @@
-# job-tracker-api
-Spring Boot Job Tracker Application
+# flight-crew-management-system
+Spring Boot Flight Crew Application
